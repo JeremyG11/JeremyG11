@@ -1,4 +1,4 @@
-![Alt text](/posts/path/to/img.jpg "Optional title")
+
 <h1 align="">Gatwech, Software Engineer</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
