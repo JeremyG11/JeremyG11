@@ -5,8 +5,8 @@
 [![](https://visitcount.itsvg.in/api?id=JeremyG11&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Banner -->
-<div align="center" style="overflow:hidden;border-radius:14px;">
-  <img src="https://pbs.twimg.com/profile_banners/1674154674872627201/1731969639/1500x500" alt="Banner: Gatwech — Profile" style="max-width:100%;height:auto;display:block;border-radius:14px;" />
+<div style="overflow:hidden;border-radius:14px;display:block;width:100%;max-width:100%;">
+  <img src="https://pbs.twimg.com/profile_banners/1674154674872627201/1731969639/1500x500" alt="Banner: Gatwech — Profile" style="width:100%;height:auto;display:block;border-radius:14px;" />
 </div>
 
 <!-- Snake Game Repo View -->
