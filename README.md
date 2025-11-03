@@ -1,19 +1,19 @@
 # Gatwech, Software Engineer
 
-## I'm enthusiastic Computer Science major Full Stack Engineer
+### I'm enthusiastic Computer Science major Full Stack Engineer
 
 [![](https://visitcount.itsvg.in/api?id=JeremyG11&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Banner -->
-<div style="overflow:hidden;border-radius:14px;display:block;width:100%;max-width:100%;">
+<div style="overflow:hidden;border-radius:14px;display:block;width:100%;max-width:100%;margin-bottom:40px">
   <img src="https://pbs.twimg.com/profile_banners/1674154674872627201/1731969639/1500x500" alt="Banner: Gatwech — Profile" style="width:100%;height:auto;display:block;border-radius:14px;" />
 </div>
 
 <!-- Snake Game Repo View -->
 
-<!-- Snake Game Repo View -->
+## 📈 GitHub Contributions
 
-<div style="margin:28px 0;padding:18px;border-radius:14px;background:linear-gradient(180deg,#071322,#05202a);box-shadow:0 25px 60px rgba(2,6,23,0.65), 0 12px 30px rgba(2,6,23,0.45);display:block;width:100%;max-width:100%;border:3px solid #16a34a;">
+<div style="margin:16px auto 24px;padding:18px;border-radius:14px;background:linear-gradient(180deg,#071322,#05202a);box-shadow:0 25px 60px rgba(2,6,23,0.65), 0 12px 30px rgba(2,6,23,0.45);display:block;width:100%;max-width:1100px;box-sizing:border-box;border:2px solid #16a34a;">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" style="width:100%;height:auto;display:block;max-width:1100px;margin:0 auto;filter:drop-shadow(0 10px 28px rgba(0,0,0,0.6));border-radius:8px;" />
 </div>
 
@@ -100,11 +100,13 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JeremyG11) [![Portfolio](https://img.shields.io/badge/Portfolio-gatwechnguth.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gatwechnguth.vercel.app/) [![x.com](https://img.shields.io/badge/x.com-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ikyoutuber)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gatwechnguth/) [![Portfolio](https://img.shields.io/badge/Portfolio-gatwechnguth.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gatwechnguth.vercel.app/) [![x.com](https://img.shields.io/badge/x.com-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gatwech3211)
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div style="width:100%;text-align:center;margin:12px 0;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" style="width:100%;max-width:760px;height:auto;display:block;margin:0 auto;" />
+</div>
 
 ### 🔝 Top Contributed Repo
 
