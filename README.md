@@ -1,14 +1,11 @@
 # Gatwech, Software Engineer
 
-![I'm enthusiastic Computer Science major Full stack developer](./assets/poppins-heading.svg)
-
-[![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag)
+## I'm enthusiastic Computer Science major Full stack developer
 
 [![](https://visitcount.itsvg.in/api?id=JeremyG11&icon=1&color=4)](https://visitcount.itsvg.in)
-
 <!-- Banner -->
 <div align="center">
-  <img src="./assets/banner-hero.svg" alt="Banner: Gatwech — Live Coding & Projects" style="max-width:100%;height:auto;" />
+  <img src="https://pbs.twimg.com/profile_banners/1674154674872627201/1731969639/1500x500" alt="Banner: Gatwech — Live Coding & Projects" style="max-width:100%;height:auto;" />
 </div>
 
 <!-- Snake Game Repo View -->
