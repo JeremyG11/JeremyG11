@@ -1,17 +1,20 @@
 # Gatwech, Software Engineer
 
-## I'm enthusiastic Computer Science major Full stack developer
+## I'm enthusiastic Computer Science major Full Stack Engineer
 
 [![](https://visitcount.itsvg.in/api?id=JeremyG11&icon=1&color=4)](https://visitcount.itsvg.in)
+
 <!-- Banner -->
-<div align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1674154674872627201/1731969639/1500x500" alt="Banner: Gatwech — Live Coding & Projects" style="max-width:100%;height:auto;" />
+<div align="center" style="overflow:hidden;border-radius:14px;">
+  <img src="https://pbs.twimg.com/profile_banners/1674154674872627201/1731969639/1500x500" alt="Banner: Gatwech — Profile" style="max-width:100%;height:auto;display:block;border-radius:14px;" />
 </div>
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<!-- Snake Game Repo View -->
+
+<div style="margin:28px 0;padding:18px;border-radius:14px;background:linear-gradient(180deg,#071322,#05202a);box-shadow:0 25px 60px rgba(2,6,23,0.65), 0 12px 30px rgba(2,6,23,0.45);display:block;width:100%;max-width:100%;border:3px solid #16a34a;">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" style="width:100%;height:auto;display:block;max-width:1100px;margin:0 auto;filter:drop-shadow(0 10px 28px rgba(0,0,0,0.6));border-radius:8px;" />
 </div>
 
 ## 🏆 GitHub Achievements
