@@ -2,7 +2,7 @@
 
 ### I'm enthusiastic Computer Science major Full Stack Engineer
 
-[![](https://visitcount.itsvg.in/api?id=JeremyG11&icon=1&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gatwech-eleven&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Banner -->
 <div style="overflow:hidden;border-radius:14px;display:block;width:100%;max-width:100%;margin-bottom:40px">
@@ -19,7 +19,7 @@
 
 ## 🏆 GitHub Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=JeremyG11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=gatwech-eleven&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 💻 Tech Stack:
 
@@ -87,14 +87,14 @@
 <div style="display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));align-items:stretch;justify-items:center">
   <div style="height:300px;box-sizing:border-box;padding:8px;border-radius:15px;background:#0b1220;display:flex;align-items:center;justify-content:center;grid-column:span 2;justify-self:stretch;">
   <div style="height:300px;box-sizing:border-box;padding:8px;border-radius:15px;background:#0b1220;display:flex;align-items:center;justify-content:center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyG11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" height="260" style="display:block;max-width:100%;width:auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatwech-eleven&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" height="260" style="display:block;max-width:100%;width:auto;" />
   </div>
   <div style="height:300px;box-sizing:border-box;padding:8px;border-radius:15px;background:#0b1220;display:flex;align-items:center;justify-content:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JeremyG11&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" height="260" style="display:block;max-width:100%;width:auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gatwech-eleven&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" height="260" style="display:block;max-width:100%;width:auto;" />
   </div>
 </div>
   <div style="height:300px;box-sizing:border-box;padding:8px;border-radius:25px;background:#0b1220;display:flex;align-items:center;justify-content:center;grid-column:span 2;justify-self:stretch;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeremyG11&theme=dark&hide_border=false" alt="GitHub streak" height="260" style="display:block;max-width:100%;width:auto;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gatwech-eleven&theme=dark&hide_border=false" alt="GitHub streak" height="260" style="display:block;max-width:100%;width:auto;" />
   </div>
 </div>
 
@@ -110,4 +110,4 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=JeremyG11&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=gatwech-eleven&limit=5&theme=dark&combine_all_yearly_contributions=true)
